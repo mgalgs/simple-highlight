@@ -1,0 +1,10 @@
+# Compiled
+*.elc
+
+# Packaging
+.cask
+
+# make things
+dash.el
+make-readme-markdown.el
+*.tar.bz2
